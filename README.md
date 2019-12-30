@@ -78,6 +78,8 @@ Program sendiri dibuwat berbasis web (web base application) dimana menggunakan f
 ![Contoh Hasil Deteksi Plastik](images/detection_response.JPG)
 ***Gambar 5. History Deteksi Plastik***
 ![History Deteksi Plastik](images/detection_logs.JPG)
+***Gambar 6. API Documentation***
+![API Documentation](images/apidocs.JPG)
 
 ## B. CLI Based Application
 ### Cara Installasi dan Penggunaan
