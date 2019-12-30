@@ -1,4 +1,4 @@
-# PlasticAI
+# Plastic AI
 Pendeteksi Jenis Sampah Plastik Berbasis Image Proccessing dengan Algoritma Backpropagation.
 
 Aplikasi yang dibangun dapat mendeteksi jenis sampah plastik termasuk dalam golongan HDPE, LDPE, Other, PET, PP, PS, ataupun PVC. Aplikasi dapat digunakan secara langsung dengan cara mengakses dashboard maupun dapat digunakan pada platform lain dengan memanfaatkan RESTful API yang tersedia. PlastikAI menyediakan RESTful API yang dapat memudahkan implementasi keberbagai platform dan sector seperti untuk robotik dan embeded application.
@@ -76,6 +76,8 @@ Program sendiri dibuwat berbasis web (web base application) dimana menggunakan f
 ![Dashboard](images/dashboard.JPG)
 ***Gambar 4. Contoh Hasil Deteksi Plastik***
 ![Contoh Hasil Deteksi Plastik](images/detection_response.JPG)
+***Gambar 5. History Deteksi Plastik***
+![History Deteksi Plastik](images/detection_logs.JPG)
 
 ## B. CLI Based Application
 ### Cara Installasi dan Penggunaan
