@@ -105,3 +105,6 @@ Program sendiri dibuwat berbasis web (web base application) dimana menggunakan f
 
 ## Hasil Deteksi
 ![Hasil deteksi](images/testing_result.png)
+
+## Notice
+***Web application belum di onlinekan karena keterbatasan resource Virtual Private Server yang support untuk machine learning***
