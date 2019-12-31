@@ -94,7 +94,7 @@ Program sendiri dibuwat berbasis web (web base application) dimana menggunakan f
 
 - Untuk melakukan prediksi dengan model yang telah dibuwat menggunakan program ```predict.py```
 
-        python3 train.py --dataset datasets-generate --model model/plastic.model --label-bin model plastic_lb.pickle --plot model/plastic_plot.png
+        python3 predict.py --image testing/pet3.jpg --model model/plastic.model --label-bin model/plastic_lb.pickle --width 32 --height 32 --flatten 1
         
 - Hasil yang akan dihasilkan oleh program ```predict.py``` saat melakukan prediksi akan berupa json response seperti berikut:
 
